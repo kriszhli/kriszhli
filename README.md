@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kris Li</h1>
-<h3 align="center">I'm a current MSCS student at NYU Courant, looking for internships and new grad positions</h3>
+<h1 align="center">Hi 👋, I'm Kris Li, an AI full-stack engineer. </h1>
+<h3 align="center"> I have an MSCS from NYU Courant, and a BS in Statistics and Data Science from UCSB. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
