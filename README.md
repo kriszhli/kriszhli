@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kris Li, an AI full-stack engineer. </h1>
-<h3 align="center"> I have an MSCS from NYU Courant, and a BS in Statistics and Data Science from UCSB. </h3>
+<h3 align="center"> MSCS from NYU Courant, BS in Statistics and Data Science from UCSB. Full-stack AI engineer with experience in architecting and delivering production-grade computer vision and large-language model solutions. Expert in designing end-to-end AI applications using Python, Django, React, and Flask, seamlessly integrating LLM APIs and containerized microservices in Linux environments. Proven track record of optimizing model performance and scalability, establishing MLOps best practices, and leading cross-functional teams through the full software development lifecycle. Fluent in English, Mandarin, and Cantonese, with a creative edge in visualization tools like Stable Diffusion, Blender, and After Effects. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
