@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kris Li</h1>
-<h3 align="center">Full-stack AI Engineer | 1.5 YOE</h3>
+# Kris Li
 
-- 📫 How to reach me: **kris.li.work@gmail.com**
+**AI Engineer · Agents, computer vision & scientific software**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kriszhli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriszhli" height="30" width="40" /></a>
-</p>
+I build AI applications that connect models to real workflows, from planning agents with memory and tool use to image processing and scientific data analysis. My work spans Python backends, TypeScript interfaces, and local model integration.
 
+MS in Computer Science, **NYU Courant** · Data Science, **UC Santa Barbara**
+
+### Selected projects
+
+- **[OpenMapCalendar](https://github.com/kriszhli/OpenMapCalendar)** — A map-aware calendar with a local AI planning agent. Combines LangGraph orchestration, ChromaDB memory, MCP tools, and editable proposals before calendar changes.
+- **[LookAlign](https://github.com/kriszhli/LookAlign)** — Reference-based color transfer combining feature alignment, learned global transforms, and edge-aware local corrections to preserve source image structure.
+- **[CDTA-HoloMap](https://github.com/kriszhli/CDTA-HoloMap)** — A live 3D transit map with GPS-corrected bus movement, departure boards, and trip planning assisted by a local language model.
+- **[OpenDeconv](https://github.com/kriszhli/OpenDeconv)** — Open-source LC-MS analysis in Python: vendor data ingestion, vectorized processing, and 2D/3D visualization. The deconvolution engine is in development.
+
+**Tools:** Python · TypeScript · React · Node.js · LangGraph · ChromaDB · Ollama
+
+[LinkedIn](https://www.linkedin.com/in/kriszhli/) · [Email](mailto:kris.li.work@gmail.com)
