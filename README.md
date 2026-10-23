@@ -1,18 +1,21 @@
 # Kris Li
 
-**AI Engineer · Agents, computer vision & scientific software**
+**AI Engineer · Scientific software & full-stack development**
 
-I build AI applications that connect models to real workflows, from planning agents with memory and tool use to image processing and scientific data analysis. My work spans Python backends, TypeScript interfaces, and local model integration.
+I build software that turns complex scientific data into usable research workflows, connecting Python backends, native C++ computation, and interactive web interfaces.
 
 MS in Computer Science, **NYU Courant** · Data Science, **UC Santa Barbara**
 
-### Selected projects
+### Current focus: tRNA Pathfinder
 
-- **[OpenMapCalendar](https://github.com/kriszhli/OpenMapCalendar)** — A map-aware calendar with a local AI planning agent. Combines LangGraph orchestration, ChromaDB memory, MCP tools, and editable proposals before calendar changes.
-- **[LookAlign](https://github.com/kriszhli/LookAlign)** — Reference-based color transfer combining feature alignment, learned global transforms, and edge-aware local corrections to preserve source image structure.
-- **[CDTA-HoloMap](https://github.com/kriszhli/CDTA-HoloMap)** — A live 3D transit map with GPS-corrected bus movement, departure boards, and trip planning assisted by a local language model.
-- **[OpenDeconv](https://github.com/kriszhli/OpenDeconv)** — Open-source LC-MS analysis in Python: vendor data ingestion, vectorized processing, and 2D/3D visualization. The deconvolution engine is in development.
+Developing a research application for **tRNA sequencing and modification analysis from LC-MS data**. The repository is private and the project is in active development.
 
-**Tools:** Python · TypeScript · React · Node.js · LangGraph · ChromaDB · Ollama
+- **Scientific computing:** data processing, sequence candidate evaluation, and modification analysis.
+- **Backend engineering:** Python/FastAPI services with a native C++ computation engine.
+- **Research tools:** an interactive React workspace for exploring datasets, reviewing sequence evidence, and exporting reports.
+
+**Project stack:** Python · C++ · Cython · FastAPI · JavaScript · React · SQLite · AWS EC2 / S3
+
+**Broader interests:** AI agents, computer vision, and tools for scientific discovery.
 
 [LinkedIn](https://www.linkedin.com/in/kriszhli/) · [Email](mailto:kris.li.work@gmail.com)
