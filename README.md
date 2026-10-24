@@ -1,14 +1,14 @@
-# Kris Li
+# Kris Zhuohao Li
 
-**AI Engineer · Scientific software & full-stack development**
+**AI Engineer · AI4Science & full-stack development**
 
-I build software that turns complex scientific data into usable research workflows, connecting Python backends, native C++ computation, and interactive web interfaces.
+I currently focus on building software that turns complex scientific data into high-throughput automated research workflows, connecting low level native kernels/backends, efficient on-demand cloud computing, and cool UI/UX.
 
-MS in Computer Science, **NYU Courant** · Data Science, **UC Santa Barbara**
+M.S. in Computer Science, **NYU Courant** · B.S. in Statistics and Data Science, **UC Santa Barbara**
 
-### Current focus: tRNA Pathfinder
+### Current focus: Accelerating LCMS (MS1-based) Direct RNA Sequencing
 
-Developing a research application for **tRNA sequencing and modification analysis from LC-MS data**. The repository is private and the project is in active development.
+Developing a research application for **tRNA sequencing and full modification analysis from LC-MS data**. The project is in active development and submitted to *Nature BioTech*.
 
 - **Scientific computing:** data processing, sequence candidate evaluation, and modification analysis.
 - **Backend engineering:** Python/FastAPI services with a native C++ computation engine.
