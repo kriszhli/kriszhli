@@ -1,21 +1,18 @@
-# Kris Zhuohao Li
+# Hi, I’m Kris Li
 
-**AI Engineer · AI4Science & full-stack development**
+**AI Engineer · Full-stack Developer**
 
-I currently focus on building software that turns complex scientific data into high-throughput automated research workflows, connecting low level native kernels/backends, efficient on-demand cloud computing, and cool UI/UX.
+I build AI applications, agents, and tools that turn complex workflows
+into usable products.
 
-M.S. in Computer Science, **NYU Courant** · B.S. in Statistics and Data Science, **UC Santa Barbara**
+MSCS, **NYU Courant** · Data Science, **UC Santa Barbara**
 
-### Current focus: Accelerating LCMS (MS1-based) Direct RNA Sequencing
+**AI:** Agent orchestration with LangGraph · MCP tool integration ·
+Retrieval and memory with ChromaDB · Local inference with Ollama
 
-Developing a research application for **tRNA sequencing and full modification analysis from LC-MS data**. The project is in active development and submitted to *Nature BioTech*.
+**Engineering:** Python · TypeScript · React · FastAPI · C++ · AWS
 
-- **Scientific computing:** data processing, sequence candidate evaluation, and modification analysis.
-- **Backend engineering:** Python/FastAPI services with a native C++ computation engine.
-- **Research tools:** an interactive React workspace for exploring datasets, reviewing sequence evidence, and exporting reports.
+**Currently building:** a private tRNA sequencing and analysis platform.
 
-**Project stack:** Python · C++ · Cython · FastAPI · JavaScript · React · SQLite · AWS EC2 / S3
-
-**Broader interests:** AI agents, computer vision, and tools for scientific discovery.
-
-[LinkedIn](https://www.linkedin.com/in/kriszhli/) · [Email](mailto:kris.li.work@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kriszhli/) ·
+[Email](mailto:kris.li.work@gmail.com)
